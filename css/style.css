@@ -1,0 +1,50 @@
+.main{
+    font-weight:bold;
+}
+.div1{
+    border:1px solid #9C27B0;
+    border-radius:10px;
+    width:30%;
+    background-color: khaki;
+    margin-bottom:1px;
+    margin-right: 2px;
+    margin-bottom: 5px;
+    float:left;
+    
+}
+.div1 h3{
+    text-align:center;
+    color:indianred;
+    font-weight: 500;
+}
+.div1 p{
+    text-align:justify;
+}
+.div2{
+    border:2px solid #9C27B0;
+    border-radius:10px;
+    width:30%;
+    background-color: khaki;
+    margin-bottom:2px;
+    margin-right: 2px;
+    float:left;
+    
+}
+.div2 h3{
+    text-align:center;
+}
+.div2 p{
+    text-align:justify;
+}
+.pic{
+    border:10px solid green;
+    width:20%;
+    border-radius: 20px;
+    
+    
+
+    
+}
+.pic img{
+    width:100%;
+}
